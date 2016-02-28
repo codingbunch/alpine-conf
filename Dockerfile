@@ -1,4 +1,4 @@
-FROM rawmind/alpine-base:0.3.3-2
+FROM codingbunch/alpine-base:3.3
 MAINTAINER Raul Sanchez <rawmind@gmail.com>
 
 # Compile and install monit and confd
